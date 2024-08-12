@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "fiantot27@gmail.com",
-    "password": "Fiantorousseautitus00",
+    "email": "sangokusan035@gmail.com",
+    "password": "sarada2025",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100089877583784",
+    "100080355760429",
     ""
   ],
   "whiteListMode": {
@@ -25,8 +25,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Rousseau |👨🏾‍🦯",
-  "prefix": "€",
+  "nickNameBot": " ʬɸʬ Blåzė Nøvã ʚɸɞ",
+  "prefix": "¥",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -37,7 +37,7 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "dchiago5@gmail.com",
+      "email": "makiesereveladi@gmail.com",
       "clientId": "1010906918510-po4nstt02ukm3j8da8gd9t2njn33acsp.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//047nW8rfd64xzCgYIARAAGAQSNwF-L9IrEhgU3oXmx51_10sSdE3NP3Mb59easZKL9rsSUIaaXzD3o-Z8D7xNEtUWgS8_EvD3n7I",
