@@ -623,4 +623,3 @@ function formatNumberWithFullForm(number) {
   // Add the full form to the formatted number
 
   return `${formattedNumber} ${fullForms[fullFormIndex]}`;
-
