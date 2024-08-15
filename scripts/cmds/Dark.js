@@ -55,4 +55,4 @@
       await usersData.set(event.senderID, userData);
       return message.reply(`❦ঔৣ☬blaze☬ঔৣ❦\n━━━━━━━━━━━━━━━━\n🖕🏻(#°□°)🖕🏻\n[🩸${resultString}🩸]\n🫣| 𝐌𝐞𝐫𝐝𝐞...𝐭𝐮 𝐯𝐢𝐞𝐧𝐬 𝐝𝐞 𝐩𝐞𝐫𝐝𝐫𝐞 ☘${betAmount}€☘`);
     }
-  }
+   }
