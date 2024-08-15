@@ -1,8 +1,8 @@
- module.exports = {
+module.exports = {
   config: {
     name: "antiout",
     version: "1.0",
-    author: "Elohime",
+    author: "uzumaki",
     countDown: 5,
     role: 1,
     shortDescription: "Enable😼 or disable🙁 antiout",
@@ -45,4 +45,4 @@
       }
     }
   }
-  
+   }
