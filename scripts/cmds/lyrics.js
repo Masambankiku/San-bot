@@ -1,5 +1,5 @@
 module.exports = {
-  config: { name: 'lyrics', author: 'Jun', countDown: 5, role: 0, category: 'media', shortDescription: { en: 'sends lyrics to chat' } },
+  config: { name: 'lyrics', author: 'blaze', countDown: 5, role: 0, category: 'media', shortDescription: { en: 'sends lyrics to chat' } },
   onStart: async function({ api, event, args }) {
     try {
       const axios = require("axios");
